@@ -39,7 +39,7 @@ Este proyecto es parte de **El Rincón de Isma**.
 Una vez instalado, inicia el servidor:
 
 ```bash
-php artisan serve
+composer dev
 ```
 
 Accede al panel de administración en: **http://localhost:8000/admin**
