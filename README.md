@@ -23,8 +23,8 @@ Este proyecto es parte de **El Rincón de Isma**.
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/dashboard.git
-   cd dashboard
+   git clone https://github.com/elrincondeisma/yt-dashboard-2026
+   cd yt-dashboard-2026
    ```
 
 2. **Ejecutar el script de instalación**
